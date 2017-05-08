@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.jumbotron{
+    margin-top: -10px;       
+    
+}
+.img-circle {
+    border-radius: 50%;
+    height: 140px;
+    width: 145px;
+    position: absolute;
+    top: 70px;
+    right: 100px;
+}
+.jumbotron {
+background: #CAEBF2;
+color: #A9A9A9;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: white;
+}
+.h1 small {
+font-size: 24px;
+}
+#myCarousel {
+    width: 90%;
+    left: 70px;
+    right: -50px;
+    position: relative;
+    
+    
+}
+body {
+    background-color: #EFEFEF;
+}
+footer {
+    color: #FF3B3F;
+    position: relative;
+
+}
